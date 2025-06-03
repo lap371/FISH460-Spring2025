@@ -1,0 +1,6 @@
+﻿Condition ,Mortality ,Limb Loss,Escape 
+Crowded Phase 1,2,1,0
+Crowded Phase 2,1,1,3
+Unrowded ,0,0,0
+Control ,0,0,0
+Uncorwded + Crowded Water ,0,0,0
